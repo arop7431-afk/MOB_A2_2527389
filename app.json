@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "AropPortfolio",
+    "slug": "arop-portfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.aropmalual.aropportfolio",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "55d364f6-a878-4e63-940b-5c8d9da76f7f"
+      }
+    }
+  }
+}
