@@ -47,7 +47,7 @@ The APK can then be uploaded to the GitHub Release. GitHub Actions may also be u
 
 ## GitHub Submission
 - **Repository:** [https://github.com/arop7431-afk/MOB_A2_2527389.git]
-- **Final Commit Hash:** [Full commit hash]
+- **Final Commit Hash:** [03678b73a6c4a8f9e7d7ebaa5590dd3de53c1b52]
 - **Release Tag:** `v1.0.0`
 - **Release Link:** [https://github.com/arop7431-afk/MOB_A2_2527389/releases/tag/v1.0.0]
 - **APK Link:** [https://expo.dev/artifacts/eas/rv-EEAYQKgGg4h_bk3guAKiXQierzUlIv_ky2qPAkmA.apk]
