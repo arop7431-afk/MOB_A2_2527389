@@ -46,14 +46,14 @@ The APK can then be uploaded to the GitHub Release. GitHub Actions may also be u
 - **Test Report:** `evidence/MOB_A2_2527389_TEST_LOG.pdf`
 
 ## GitHub Submission
-- **Repository:** [Your repository URL]
+- **Repository:** [https://github.com/arop7431-afk/MOB_A2_2527389.git]
 - **Final Commit Hash:** [Full commit hash]
 - **Release Tag:** `v1.0.0`
-- **Release Link:** [Your GitHub release URL]
+- **Release Link:** [https://github.com/arop7431-afk/MOB_A2_2527389/releases/tag/v1.0.0]
 - **APK Link:** [https://expo.dev/artifacts/eas/rv-EEAYQKgGg4h_bk3guAKiXQierzUlIv_ky2qPAkmA.apk]
 
 ## Known Limitations
-[List actual bugs, incomplete features, or untested functionality.]
+[.]
 
 ## Acknowledgements
 ChatGPT and Claude AI were used for AI-assisted support, and Figma was used for UI/UX design. Further details are available in `evidence/AI_USE.md`.
